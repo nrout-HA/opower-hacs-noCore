@@ -1,6 +1,6 @@
 {
   "name": "Opower",
-  "homeassistant": "2023.2.0",
+  "homeassistant": "2022.11.0",
   "render_readme": true,
   "zip_release": true,
   "filename": "opower.zip"

@@ -1,23 +1,6 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 
-**This custom integration has stopped receiving updates. It's included in core since the 2023.8 release. Please remove it from HACS and add the official one.**
-
-Temporary HACS integration for utilities that use opower.com such as PG&amp;E until https://github.com/home-assistant/core/pull/90489 is merged and released to core.
-For documentation see https://next.home-assistant.io/integrations/opower/
-
-Supported utilities:
-
-- Evergy
-- Exelon subsidiaries
-  - Atlantic City Electric
-  - Baltimore Gas and Electric (BGE)
-  - Commonwealth Edison (ComEd)
-  - Delmarva Power
-  - PECO Energy Company (PECO)
-  - Potomac Electric Power Company (Pepco)
-- Pacific Gas & Electric (PG&E)
-- Puget Sound Energy (PSE)
-
+Forked from Tronikos' original opower integration
 # Installation
 
 ## HACS
